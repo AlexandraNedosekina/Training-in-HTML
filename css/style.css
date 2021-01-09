@@ -1,0 +1,45 @@
+h1 {
+  font-size: 24;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-style: italic;
+  font-family: 'William', serif;
+  margin-top:0;
+  margin-bottom:0;
+  padding-top:34;
+  color:white;
+}
+h2 {
+  font-size: 30;
+  text-transform: uppercase;
+  font-family: 'Inter', sans-serif;
+  margin-top:0;
+  margin-bottom:24;
+  color:white;
+}
+h3{
+  font-family: 'William', serif;
+  margin: 0;
+  font-size: 15px;
+  text-transform: uppercase;
+  line-height: 18px;
+  font-weight: normal;
+  color:white;
+}
+
+img {
+  width: 230;
+  margin-bottom:50;
+}
+
+p {
+  font-family: 'Inter', sans-serif;
+  text-align:center;
+}
+div{
+  background-image: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%);
+  width:500;
+  height:500;
+  text-align:center;
+  margin:auto;
+}
